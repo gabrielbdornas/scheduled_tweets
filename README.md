@@ -14,7 +14,7 @@
     - d-flex align-items-center justify-content-center
   - layout
     - div class container
-  - Bootstrap navbar
+  - Bootstrap navbar - https://getbootstrap.com/docs/5.0/components/navbar/
     - <%= render partial: "sharede/navbar" %>
     - Modificar navabar links (Home e About)
   - link_to helper
