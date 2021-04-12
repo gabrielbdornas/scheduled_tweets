@@ -1,4 +1,4 @@
-# Video-02
+# Video-03
 
 - Objetivos gerais desta playlist:
   - Reproduzir aplicação GoRails e estudar a criação de um projeto em Rails
