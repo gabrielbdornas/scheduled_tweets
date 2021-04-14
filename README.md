@@ -2,7 +2,7 @@
 
 - Objetivos gerais desta playlist:
   - Reproduzir aplicação GoRails e estudar a criação de um projeto em Rails
-    - https://www.youtube.com/watch?v=wkNR1hG4yOk&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56 (Até a parte 13 neste momento)
+    - https://www.youtube.com/watch?v=wkNR1hG4yOk&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56 (Parte 11 e 12)
 - Acessibilidade acrescentada "shared/flash"
 - Utilização de recursos no arquivo README.md para facilitar a leitura do que foi feito
 - User model
